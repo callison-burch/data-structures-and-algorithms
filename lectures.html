@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>CIS121: Lectures</title>
 
     <!-- CSS -->
     <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
@@ -57,7 +57,7 @@
             <li id="schedule"><a href="schedule.html">Schedule</a></li>
             <li id="staff"><a href="staff.html">Staff</a></li>
             <li id="tutoring"><a href="http://www.vpul.upenn.edu/tutoring/">Tutoring</a></li>
-            <li id="lectures"><a href="lectures.html">Lectures</a></li>
+            <li id="lectures"><a href="lectures.html">Syllabus</a></li>
             <li id="resources"><a href="resources.html">Resources</a></li>
             <li id="homework">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework Assignments <span class="caret"></span></a>
@@ -82,10 +82,10 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-2 hidden-sm hidden-xs">
-          {% if page.img_link %}<a href="{{ page.img_link }}">{% endif %} 
-          <img src="assets/img/{{ page.img }}.jpg" class="img-responsive img-rounded" alt="{{ page.picture }}"/>
-          {% if page.img_link %}</a>{% endif %} 
-          <span class="text-muted"><i>{{ page.caption }}</i></span>
+          <a href="http://algs4.cs.princeton.edu/home/">
+            <img src="assets/img/textbook.jpg" class="img-responsive img-rounded" alt="Picture not found."/>
+          </a>
+          <span class="text-muted"><i>The course textbook</i></span>
         </div>
         <div class="col-sm-10">
           {{ content }}
@@ -108,7 +108,7 @@
     <script src="./dist/js/bootstrap.js"></script>
     <script type="text/javascript">
       $(document).ready(function(){
-        $("#{{ page.active_tab }}").addClass("active");
+        $("#lectures").addClass("active");
       });
     </script>
   </body>
