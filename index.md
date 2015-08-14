@@ -3,7 +3,7 @@ layout: default
 img: textbook.jpg
 img_link: http://algs4.cs.princeton.edu/home/
 caption: The course textbook
-title: lectures
+title: home
 active_tab: main_page 
 ---
 
