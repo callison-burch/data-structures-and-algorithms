@@ -24,7 +24,7 @@ Time and place:
 : Lectures are Tuesdays and Thursdays at 10:30 in Towne 100
 
 Prerequisites:
-: [CIS 120](http://www.seas.upenn.edu/~cis120/) 
+: [CIS 120](http://www.seas.upenn.edu/~cis120/) and CIS 160
 
 Textbook:
 : [Algorithms by Sedgewick and Wayne, 4th edition](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/).  The textbook has its own [web site](http://algs4.cs.princeton.edu/home/).
