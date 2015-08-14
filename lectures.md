@@ -1,6 +1,6 @@
 ---
 layout: default
-img: texbook.jpg
+img: textbook.jpg
 img_link: http://algs4.cs.princeton.edu/home/
 caption: The course textbook
 title: lectures
