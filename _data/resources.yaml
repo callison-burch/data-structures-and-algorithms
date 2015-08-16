@@ -1,0 +1,84 @@
+- 
+  header: 'Java'	
+  links: 
+    - 
+      text: 'Java 1.5 Documentation'
+      link: http://java.sun.com/j2se/1.5.0/docs/api/
+-
+  header: 'Books (free, online)'
+  links:
+    -
+      text: 'Eck''s "Intro to Programming Using Java"'
+      link: http://math.hws.edu/javanotes/
+    -
+      text: '"Java Tutorial" from Sun'
+      link: http://java.sun.com/docs/books/tutorial/index.html
+    -
+      text: '"Thinking in Java" by Bruce Eckel'
+      link: http://www.mindview.net/Books/TIJ/
+    -
+      text: 'Online Java Textbook'
+      link: http://www.oopweb.com/Java/Documents/IntroToProgrammingUsingJava/VolumeFrames.html
+-
+  header: 'Eclipse'
+  links:
+    -
+      text: 'Installation'
+      link: http://www.seas.upenn.edu/~cis120/current/ocaml_setup.shtml
+    -
+      text: 'Project Set-up'
+      link: https://www.seas.upenn.edu/~cis121/current/eclipse.shtml
+-
+  header: 'JUnit'
+  links: 
+    - 
+      text: 'University of Washington tutorial'
+      link: http://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.shtml
+    -
+      text: 'Official JUnit Documentation'
+      link: http://junit.sourceforge.net/javadoc/
+- 
+  header: 'Coding Conventions'
+  links:
+    -
+      text: '121 Coding Style Guidelines'
+      link: https://www.seas.upenn.edu/~cis121/current/style_guidelines.shtml
+    -
+      text: 'Sun''s Java Coding Conventions'
+      link: http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html
+-
+  header: 'Object Oriented Programming'
+  links:
+    -
+      text: 'www.oopweb.com'
+      link: www.oopweb.com
+-
+  header: 'CIS 160 Review Material'
+  links:
+    -
+      text: 'Lecture Notes from Val Tannen'
+      link: https://www.seas.upenn.edu/~cis121/current/resources/lectSkelALL.pdf
+    -
+      text: 'Exams, Mock and Actual, with Solutions'
+      link: https://www.seas.upenn.edu/~cis121/current/resources/exALL.pdf
+    -
+      text: 'Homeworks, with Solutions'
+      link: https://www.seas.upenn.edu/~cis121/current/resources/hwALL.pdf
+    -
+      text: 'Quizzes, with Answers and Explanations'
+      link: https://www.seas.upenn.edu/~cis121/current/resources/qzALL.pdf
+    -
+      text: 'Lecture Notes from Albert Meyer'
+      link: https://www.seas.upenn.edu/~cis121/current//resources/AlbertMeyerLectureNotes.pdf
+-
+  header: 'Algorithms'
+  links:
+    -
+      text: 'http://www.nist.gov/dads/'
+      link: http://www.nist.gov/dads/
+-
+  header: 'Quick Reference'
+  links:
+    -
+      text: 'Theoretical Computer Science Cheat Sheet by Steve Seiden'
+      link: https://www.seas.upenn.edu/~cis121/current/resources/seiden_cheat.pdf
