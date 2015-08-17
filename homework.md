@@ -14,18 +14,18 @@ active_tab: homework
       <th>Materials</th>
       <th>Due Date</th>
     </tr>
-    {% for homework in site.data.homeworks %}
-    <tr style="text-align: left">
-      <!-- Homework Name -->
-      <td><span>{{ homework.name }}</span></td>
-      <!-- Materials -->
-      <td>
-        <span><a href="{{ homework.link }}">{{ homework.link_name }}</a></span>
-      </td>
-      <!-- Due Date -->
-      <td>{{ homework.date | date: "%b %d" }}</td>
-    </tr>
-    {% endfor %}
+      {% for homework in site.data.homeworks %}
+        <tr style="text-align: left">
+          <!-- Homework Name -->
+          <td><span>{{ homework.name }}</span></td>
+          <!-- Materials -->
+          <td>
+            <span><a href="{{ homework.link }}">{{ homework.link_name }}</a></span>
+          </td>
+          <!-- Due Date -->
+          <td>{{ homework.date | date: "%b %d" }}</td>
+        </tr>
+      {% endfor %}
   </tbody>
 </table>
 
