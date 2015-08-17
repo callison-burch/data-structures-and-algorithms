@@ -10,6 +10,7 @@
     <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/class.css" rel="stylesheet">   
     <link href="assets/css/syntax.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -21,7 +22,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
     <!-- MathJax -->
-<script type="text/javascript"
+    <script type="text/javascript"
       src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
   </head>
@@ -29,7 +30,7 @@
     <a class="sr-only" href="#content">Skip to main content</a>
 
     <!-- Docs master nav -->
-    <header class="navbar navbar-fixed-top navbar-default" role="banner">
+    <header class="navbar navbar-static-top navbar-default" role="banner">
       <div class="container">
         <div class="row">
         <div class="navbar-header">
@@ -46,22 +47,26 @@
         </div>
         <nav class="collapse navbar-collapse" role="navigation">
           <ul class="nav navbar-nav">
-            <li id="syllabus"><a href="schedule.html">Schedule</a></li>
-            <li id="syllabus"><a href="staff.html">Staff</a></li>
-            <li id="syllabus"><a href="http://www.vpul.upenn.edu/tutoring/">Tutoring</a></li>
-            <li id="syllabus"><a href="syllabus.html">Syllabus</a></li>
-            <li id="syllabus"><a href="resources.html">Resources</a></li>
-            <li id="homework">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework Assignments <span class="caret"></span></a>
+            <li id="schedule"><a href="schedule.html">Schedule</a></li>
+            <li id="staff"><a href="staff.html">Staff</a></li>
+            <li id="tutoring"><a href="http://www.vpul.upenn.edu/tutoring/">Tutoring</a></li>
+            <li id="lectures"><a href="lectures.html">Lectures</a></li>
+            <li id="resources"><a href="resources.html">Resources</a></li>
+            <li id="homework"><a href="homework.html">Homework</a>
+              <!-- <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework Assignments <span class="caret"></span></a>
               <ol class="dropdown-menu">
                 <li><a href="hw1.html">HW1 (due XXX)</a></li>
-	      </ol>
+              </ol> 
+            </li> -->
             </li>
-            <li id="labs">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Labs <span class="caret"></span></a>
+            <li id="labs"><a href="labs.html">Labs</a>
+              <!-- <a class="dropdown-toggle" data-toggle="dropdown" href="#">Labs <span class="caret"></span></a>
               <ol class="dropdown-menu">
                 <li><a href="lab1.html">Lab 1 (due XXX)</a></li>
-	      </ol>
+              </ol>
+            </li> -->
+            </li>
+        </ol>
             </li>
             <li id="project"><a href="project.html">Final Project</a></li>
             <li id="resources"><a href="resources.html">Resources</a></li>
@@ -75,7 +80,7 @@
       <div class="row">
         <div class="col-sm-2 hidden-sm hidden-xs">
           {% if page.img_link %}<a href="{{ page.img_link }}">{% endif %} 
-          <img src="assets/img/{{ page.img }}.jpg" class="img-responsive img-rounded" alt="{{ page.picture }}"/>
+          <img src="./assets/img/{{ page.img }}" class="img-responsive img-rounded" alt="{{ page.picture }}"/>
           {% if page.img_link %}</a>{% endif %} 
           <span class="text-muted"><i>{{ page.caption }}</i></span>
         </div>
@@ -87,7 +92,7 @@
       <footer class="text-center text-muted">
         <hr/>
         Last updated {{ site.time | date: "%B %d, %Y" }}. <br/>
-	The source code is on <a href="https://github.com/callison-burch/data-structures-and-algorithms">github <i class="fa fa-github-alt"></i></a>.
+  The source code is on <a href="https://github.com/callison-burch/data-structures-and-algorithms">github <i class="fa fa-github-alt"></i></a>.
         <br/>
       </footer>
     </div>
