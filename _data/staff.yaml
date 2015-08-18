@@ -1,12 +1,14 @@
 -
-    name_left: Fifi Yeung
-    pic_left: assets/img/staff/fifi.png
-    email_left: eyeung@seas
+    name_left: Jim (Quanze) Chen
+    pic_left: assets/img/staff/jim.jpg
+    email_left: cquanze@seas
+    extra_title_left: Head TA
     lab_left: 2xx
     office_hours_left: TBD
 
     name_right: David Xu
-    pic_right: assets/img/staff/david.jpg
+    pic_right: assets/img/staff/david_xu.jpg
+    extra_title_right: Head TA
     email_right: davix@seas
     lab_right: 2xx
     office_hours_right: TBD
@@ -14,10 +16,24 @@
 -
     name_left: Jack Gindi
     pic_left: assets/img/staff/jack.jpg 
+    email_left: jgindi@sas
     lab_left: 2xx
     office_hours_left: TBD
 
     name_right: Igor Pogorelskiy
     pic_right: assets/img/staff/igor.jpg
+    email_right: igorpo@seas
     lab_right: 2xx
+    office_hours_right: TBD
+-
+    name_left: Fifi Yeung
+    pic_left: assets/img/staff/fifi.png
+    email_left: eyeung@seas
+    lab_left: 2xx
+    office_hours_left: TBD
+
+    name_right: Reuben Abraham 
+    pic_right: assets/img/staff/reuben.jpg
+    email_right: reubenab@wharton
+    lab_right: 2xx 
     office_hours_right: TBD
