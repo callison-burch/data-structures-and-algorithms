@@ -27,7 +27,7 @@ Prerequisites:
 : [CIS 120](http://www.seas.upenn.edu/~cis120/) and CIS 160
 
 Textbook:
-: [Algorithms by Sedgewick and Wayne, 4th edition](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/).  The textbook has its own [web site](http://algs4.cs.princeton.edu/home/).
+: The lectures and readings will closely follow [Algorithms by Sedgewick and Wayne, 4th edition](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/).  The textbook has its own [web site](http://algs4.cs.princeton.edu/home/) with some free materials, but you should also buy the full textbook.
 
 Grading:
 : The grading for the course will consist of 55% for homework assignments and the final project, 10% each for 2 midterm exams, 20% for the final, and 5% for recitation attendance. Recitation attendance is mandatory.
