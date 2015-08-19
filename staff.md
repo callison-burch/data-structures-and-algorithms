@@ -17,8 +17,12 @@ active_tab: staff
         <span> {{ staff.extra_title_left }}</span><br>
         {% endif %}
         <br>
+ 	{% if staff.lab_left %}
         <span> Lab: {{ staff.lab_left }}</span><br>
+        {% endif %}
+ 	{% if staff.office_hours_left %}
         <span> Office Hours: {{ staff.office_hours_left }}</span>
+        {% endif %}
       </div>
       <div class="col-md-3 col-xs-6" style="margin-bottom: 20px">
         <img src="{{staff.pic_right}}" style="height: 100%; width: 100%; max-height: 200px; max-width: 200px"/>
@@ -30,8 +34,12 @@ active_tab: staff
         <span> {{ staff.extra_title_right }}</span><br>
         {% endif %}
         <br>
+ 	{% if staff.lab_left %}
         <span> Lab: {{ staff.lab_right }}</span><br>
+        {% endif %}
+ 	{% if staff.office_hours_right %}
         <span> Office Hours:  {{ staff.office_hours_right }}</span>
+        {% endif %}
         </div>
       </div>
   {% endfor %}
