@@ -1,10 +1,4 @@
 -
-   assignment: Java Warm-Up (Circles, Polygons, and Bounding Boxes)
-   link: http://www.seas.upenn.edu/~cis121/14sp/hws/hw02/hw02.pdf
-   type: programming
-   release_date: 2015-09-01
-   due_date: 2015-09-08
--
    assignment: Java Warm-Up (Quad-Tree Compression)
    link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw02/hw02.pdf
    type: programming
@@ -31,7 +25,7 @@
    due_date: 2015-09-29
 -
    assignment: Midterm 1
-   type: written
+   type: in-class exam
    release_date: 2015-10-01
    due_date: 2015-10-01
 -
@@ -41,9 +35,9 @@
    release_date: 2015-10-01
    due_date: 2015-10-13
 -
-   assignment: TBD
+   assignment: Whole Term Project assigned - small deliverable due in 1 week
    link: 
-   type: 
+   type: programming
    release_date: 2015-10-13
    due_date: 2015-10-20
 -
@@ -61,20 +55,38 @@
    due_date: 2015-11-03
 -
    assignment: Midterm 2
-   type: written
+   type: in-class exam
    release_date: 2015-11-03
    due_date: 2015-11-03
 -
-   assignment: Term Project
+   assignment: TBD - maybe Suffix arrays 
+   link: 
+   type: written
+   release_date: 2015-11-05
+   due_date: 2015-11-12
+-
+   assignment: TBD - maybe String search / suffix array implementation?
    link: 
    type: programming
-   release_date: 
-   due_date: 
-
+   release_date: 2015-11-12
+   due_date: 2015-11-19
 -
    assignment: Huffman Coding
    link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw07/hw07.pdf
    type: programming
-   release_date: 
-   due_date: 
+   release_date: 2015-11-19
+   due_date: 2015-12-03
+-
+   assignment: Term project due on last day of class
+   link: 
+   type: programming
+   release_date: 2015-10-13
+   due_date: 2015-12-08
+-
+   assignment: Final exam
+   link: 
+   type: in-class exam
+   release_date: 2015-12-XX
+   due_date: 2015-12-XX
+
 

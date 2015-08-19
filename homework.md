@@ -11,19 +11,26 @@ active_tab: homework
   <tbody>
     <tr>
       <th>Name</th>
+      <th>Type</th>
       <th>Materials</th>
+      <th>Release Date</th>
       <th>Due Date</th>
     </tr>
       {% for homework in site.data.homeworks %}
         <tr style="text-align: left">
           <!-- Homework Name -->
-          <td><span>{{ homework.name }}</span></td>
+          <td><span>{{ homework.assignment }}</span></td>
+          <!-- Type -->
+          <td>
+            <span>{{ homework.type }}</span>
+          </td>
           <!-- Materials -->
           <td>
-            <span><a href="{{ homework.link }}">{{ homework.link_name }}</a></span>
+            <span><a href="{{ homework.link }}">Download</a></span>
           </td>
-          <!-- Due Date -->
-          <td>{{ homework.date | date: "%b %d" }}</td>
+          <!-- Dates -->
+          <td>{{ homework.release_date | date: "%b %d" }}</td>
+          <td>{{ homework.due_date | date: "%b %d" }}</td>
         </tr>
       {% endfor %}
   </tbody>
