@@ -1,5 +1,80 @@
 -
-   name: dummy homework
-   link_name: link name
-   link: homework file
-   date: 2015-08-27
+   assignment: Java Warm-Up (Circles, Polygons, and Bounding Boxes)
+   link: http://www.seas.upenn.edu/~cis121/14sp/hws/hw02/hw02.pdf
+   type: programming
+   release_date: 2015-09-01
+   due_date: 2015-09-08
+-
+   assignment: Java Warm-Up (Quad-Tree Compression)
+   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw02/hw02.pdf
+   type: programming
+   release_date: 2015-09-01
+   due_date: 2015-09-08
+
+-
+   assignment: Analysis of Algorithms
+   link: 
+   type: written
+   release_date: 2015-09-08
+   due_date: 2015-09-15
+-
+   assignment: Dequeues and Dijkstra's "Shunting Yard" Algorithm
+   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw05/hw05.pdf
+   type: programming
+   release_date: 2015-09-15
+   due_date: 2015-09-22
+-
+   assignment: Sorting
+   link: 
+   type: written
+   release_date: 2015-09-22
+   due_date: 2015-09-29
+-
+   assignment: Midterm 1
+   type: written
+   release_date: 2015-10-01
+   due_date: 2015-10-01
+-
+   assignment: Heaps/Priority Queues
+   link: 
+   type: written
+   release_date: 2015-10-01
+   due_date: 2015-10-13
+-
+   assignment: TBD
+   link: 
+   type: 
+   release_date: 2015-10-13
+   due_date: 2015-10-20
+-
+   assignment: Hashing and Tries
+   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw11/hw11.pdf
+   type: programming
+   release_date: 2015-10-20
+   due_date: 2015-10-27
+-
+
+   assignment: Breadth-First Search and Minimum Spanning Trees
+   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw09/hw09.pdf
+   type: programming
+   release_date: 2015-10-27
+   due_date: 2015-11-03
+-
+   assignment: Midterm 2
+   type: written
+   release_date: 2015-11-03
+   due_date: 2015-11-03
+-
+   assignment: Term Project
+   link: 
+   type: programming
+   release_date: 
+   due_date: 
+
+-
+   assignment: Huffman Coding
+   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw07/hw07.pdf
+   type: programming
+   release_date: 
+   due_date: 
+
