@@ -30,7 +30,7 @@ Textbook:
 : [Algorithms by Sedgewick and Wayne, 4th edition](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/).  The textbook has its own [web site](http://algs4.cs.princeton.edu/home/).
 
 Grading:
-: The grading for the course will consist of 40% for homework assignments and the final project, 15% each for 2 midterm exams, 25% for the final, and 5% for recitation attendance. Recitation attendance is mandatory.
+: The grading for the course will consist of 55% for homework assignments and the final project, 10% each for 2 midterm exams, 20% for the final, and 5% for recitation attendance. Recitation attendance is mandatory.
 
 Late day policy:
 : Each student has two free, no-strings-attached late days that they may use on programming and written homeworks. You need not let the course staff know; the course infrastructure tracks this automatically. Once your two late days are used, we will not accept your homework submission. One "day" here is anywhere between 1 second and 24 hours after the homework deadline, and a second "day" is between 24 hours and 48 hours after the homework deadline. Late written homeworks can be turned into Laura Fox in Levine 308. The final project does not have the same late policy; it has its own late policy, which will be announced with its release.
