@@ -3,7 +3,7 @@ layout: default
 img: textbook.jpg
 img_link: http://algs4.cs.princeton.edu/home/
 caption: The course textbook
-title: home
+title: CIS 121 - Fall 2015 - Data Structures and Algorithms 
 active_tab: main_page 
 ---
 

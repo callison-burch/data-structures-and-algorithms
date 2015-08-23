@@ -3,7 +3,7 @@ layout: default
 img: textbook.jpg
 img_link: http://algs4.cs.princeton.edu/home/
 caption: The course textbook
-title: homework
+title: CIS 121 Homework Assignments
 active_tab: homework
 ---
 
