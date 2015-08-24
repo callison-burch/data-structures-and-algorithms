@@ -59,15 +59,15 @@
    release_date: 2015-11-03
    due_date: 2015-11-03
 -
-   assignment: TBD - maybe Suffix arrays 
+   assignment: TBD - Term project milestone due 
    link: 
-   type: written
+   type: programming 
    release_date: 2015-11-05
    due_date: 2015-11-12
 -
    assignment: TBD - maybe String search / suffix array implementation?
    link: 
-   type: programming
+   type: programming/written
    release_date: 2015-11-12
    due_date: 2015-11-19
 -
