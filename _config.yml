@@ -1,4 +1,4 @@
-exclude: ['README.md']
+exclude: ['README.md', 'Gemfile']
 timezone: US/Eastern
 markdown: kramdown
 highlighter: pygments
