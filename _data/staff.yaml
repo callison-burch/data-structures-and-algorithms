@@ -5,18 +5,18 @@
     extra_title: Instructor
     office_hours: Thursdays noon-1 and Fridays noon-1 in Levine 506 (or by appointment)
 -
-    name: Jim (Quanze) Chen
-    pic: jim.jpg
-    email: cquanze@seas
-    extra_title: Head TA
-    lab: 206
-    office_hours: TBD
--
     name: David Xu
     pic: david_xu.jpg
     extra_title: Head TA
     email: davix@seas
     lab: 203
+    office_hours: TBD
+-
+    name: Jim (Quanze) Chen
+    pic: jim.jpg
+    email: cquanze@seas
+    extra_title: Head TA
+    lab: 206
     office_hours: TBD
 -
     name: Brady Neal
