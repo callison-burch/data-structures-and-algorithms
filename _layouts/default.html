@@ -82,9 +82,13 @@
           {% if page.img_link %}</a>{% endif %} 
           <span class="text-muted"><i>{{ page.caption }}</i></span>
         </div>
-      </div>
-      {% endif %}
+        <div class="col-sm-10">
           {{ content }}
+        </div>
+      </div>
+      {% else %}
+          {{ content }}
+      {% endif %}
       </div>
 
       <footer class="text-center text-muted">
