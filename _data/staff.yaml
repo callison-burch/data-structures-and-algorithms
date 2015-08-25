@@ -18,11 +18,43 @@
     extra_title: Head TA
     lab: 206
     office_hours: TBD
+
 -
-    name: Brady Neal
-    pic: brady.jpg
-    email: nealb@seas
-    lab:
+    name: Fifi Yeung
+    pic: fifi.png
+    email: eyeung@seas
+    lab: 201
+    office_hours: TBD
+
+-
+    name: Reuben Abraham 
+    pic: reuben.jpg
+    email: reubenab@wharton
+    lab: 202
+    office_hours: TBD
+-
+    name: Jordan Hurwitz
+    pic: jordan.jpg
+    email: jhurwitz@sas
+    lab: 204
+    office_hours: TBD
+-
+    name: Zhan Xiong Chin 
+    pic: zhan.png
+    email: chinz@seas
+    lab: 205
+    office_hours: TBD
+-
+    name: Igor Pogorelskiy
+    pic: igor.png
+    email: igorpo@seas
+    lab: 207
+    office_hours: TBD
+-
+    name: Kevin Huo
+    pic: kevin.jpg
+    email: kevinhuo@seas
+    lab: 208
     office_hours: TBD
 -
     name: Brian Shi
@@ -34,23 +66,29 @@
     name: David Freifelder
     pic: david_freifelder.jpg
     email: dfrei@seas
-    lab: 201
+    lab: 210
+    office_hours: TBD
+-
+    name: JT Cho
+    pic: jt.jpg
+    email: joncho@seas
+    lab: 211
+    office_hours: TBD
+-
+    name: Brady Neal
+    pic: brady.jpg
+    email: nealb@seas
+    lab:
     office_hours: TBD
 -
     name: Fan Yin
-    pic: 
+    pic: fan.jpeg
     email: fanyin@seas
     lab:
     office_hours: TBD
 -
-    name: Igor Pogorelskiy
-    pic: igor.png
-    email: igorpo@seas
-    lab: 207
-    office_hours: TBD
--
     name: Isabel Fan
-    pic: 
+    pic: isabel.jpg
     email: isafan@seas
     lab: 
     office_hours: TBD
@@ -61,34 +99,10 @@
     lab: 
     office_hours: TBD
 -
-    name: Fifi Yeung
-    pic: fifi.png
-    email: eyeung@seas
-    lab: 201
-    office_hours: TBD
--
     name: John Hewitt
     pic: john.jpg
     email: johnhew@seas
     lab: 
-    office_hours: TBD
--
-    name: Jordan Hurwitz
-    pic: jordan.jpg
-    email: jhurwitz@sas
-    lab: 204
-    office_hours: TBD
--
-    name: JT Cho
-    pic: jt.jpg
-    email: joncho@seas
-    lab: 211
-    office_hours: TBD
--
-    name: Kevin Huo
-    pic: kevin.jpg
-    email: kevinhuo@seas
-    lab: 208
     office_hours: TBD
 -
     name: Lina Huang
@@ -97,20 +111,8 @@
     lab: 
     office_hours: TBD
 -
-    name: Reuben Abraham 
-    pic: reuben.jpg
-    email: reubenab@wharton
-    lab: 202
-    office_hours: TBD
--
     name: Trevin Gandhi 
     pic: trevin.jpg
     email: gandhit@seas
     lab:  
-    office_hours: TBD
--
-    name: Zhan Xiong Chin 
-    pic: zhan.png
-    email: chinz@seas
-    lab: 205
     office_hours: TBD

@@ -11,10 +11,12 @@ active_tab: staff
         {% if staff.pic %}<img src="assets/img/staff/{{staff.pic}}" class="img-circle" style="height: 100%; width: 100%; max-height: 250px; max-width: 250px"/><br />
         {% else %}<img src="assets/img/staff/profile-pic.png" class="img-circle" style="height: 100%; width: 100%; max-height: 250px; max-width: 250px"/><br />{% endif %}
         <b>{{ staff.name }}</b><br>
-        {% if staff.extra_title %}<b>{{ staff.extra_title }}</b><br />{% endif %}
+        {% if staff.extra_title %}<b>{{ staff.extra_title }}</b>
+        {% endif %}
+        <br />
         {{ staff.email }}<br>
- 	{% if staff.lab %}Lab: {{ staff.lab }}<br />{% endif %}
- 	{% if staff.office_hours %}Office Hours: {{ staff.office_hours }}{% endif %}
+       	{% if staff.lab %}Lab: {{ staff.lab }}<br />{% endif %}
+       	{% if staff.office_hours %}Office Hours: {{ staff.office_hours }}{% endif %}
       </div>
   {% endfor %}
   </div>
