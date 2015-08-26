@@ -7,7 +7,7 @@ title: CIS 121 Homework Assignments
 active_tab: homework
 ---
 
-<table class="table table-striped"> 
+<table class="table table-striped">
   <tbody>
     <tr>
       <th>Name</th>
@@ -26,7 +26,12 @@ active_tab: homework
           </td>
           <!-- Materials -->
           <td>
-            <span><a href="{{ homework.link }}">Download</a></span>
+            <span><a
+                   {% if homework.active %}
+                     href="{{ homework.link }}"
+                   {% else %}
+                     class="disabled btn"
+                   {% endif %}>Download</a></span>
           </td>
           <!-- Dates -->
           <td>{{ homework.release_date | date: "%b %d" }}</td>
@@ -35,4 +40,3 @@ active_tab: homework
       {% endfor %}
   </tbody>
 </table>
-
