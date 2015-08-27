@@ -26,12 +26,13 @@ active_tab: homework
           </td>
           <!-- Materials -->
           <td>
-            <span><a
+            <span>
                    {% if homework.active %}
-                     href="{{ homework.link }}"
+                     <a href="{{ homework.link }}">Download</a>
                    {% else %}
-                     class="disabled btn"
-                   {% endif %}>Download</a></span>
+                      Coming Soon
+                   {% endif %}
+            </span>
           </td>
           <!-- Dates -->
           <td>{{ homework.release_date | date: "%b %d" }}</td>
