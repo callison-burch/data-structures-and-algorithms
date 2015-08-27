@@ -65,3 +65,4 @@ Subject to change as the term progresses.
   </tbody>
 </table>
 
+Big thanks to [Kevin Wayne](http://www.cs.princeton.edu/~wayne/contact/) for sharing the slides!  If you are an instructor and would like the Keynote versions of the slides, please contact Kevin directly.
