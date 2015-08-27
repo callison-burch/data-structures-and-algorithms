@@ -21,7 +21,7 @@ Teaching Assistants:
 : [Course Staff](staff.html) 
 
 Discussion Forum:
-: [Piazza](https://piazza.com/upenn/fall2015/cis121/home)
+: [Piazza](https://piazza.com/upenn/fall2015/cis121/)
 
 Time and place:
 : Lectures are Tuesdays and Thursdays at 10:30 in Towne 100
