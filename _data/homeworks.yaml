@@ -1,25 +1,31 @@
+# TODO: update links
 -
    assignment: Java Warm-Up (Quad-Tree Compression)
-   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw02/hw02.pdf
+   active:
+   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw02/hw02.pdf
+   zip:
    type: programming
    release_date: 2015-09-01
    due_date: 2015-09-08
 
 -
    assignment: Analysis of Algorithms
-   link: 
+   active:
+   writeup:
    type: written
    release_date: 2015-09-08
    due_date: 2015-09-15
 -
    assignment: Dequeues and Dijkstra's "Shunting Yard" Algorithm
-   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw05/hw05.pdf
+   active:
+   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw05/hw05.pdf
+   zip:
    type: programming
    release_date: 2015-09-15
    due_date: 2015-09-22
 -
    assignment: Sorting
-   link: 
+   link:
    type: written
    release_date: 2015-09-22
    due_date: 2015-09-29
@@ -30,26 +36,30 @@
    due_date: 2015-10-01
 -
    assignment: Heaps/Priority Queues
-   link: 
+   link:
    type: written
    release_date: 2015-10-01
    due_date: 2015-10-13
 -
-   assignment: Whole Term Project assigned - small deliverable due in 1 week
-   link: 
+   assignment: Whole Term Project assigned—small deliverable due in 1 week
+   link:
    type: programming
    release_date: 2015-10-13
    due_date: 2015-10-20
 -
    assignment: Hashing and Tries
-   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw11/hw11.pdf
+   active:
+   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw11/hw11.pdf
+   zip:
    type: programming
    release_date: 2015-10-20
    due_date: 2015-10-27
 -
 
    assignment: Breadth-First Search and Minimum Spanning Trees
-   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw09/hw09.pdf
+   active:
+   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw09/hw09.pdf
+   zip:
    type: programming
    release_date: 2015-10-27
    due_date: 2015-11-03
@@ -59,14 +69,18 @@
    release_date: 2015-11-03
    due_date: 2015-11-03
 -
-   assignment: TBD - Term project milestone due 
-   link: 
-   type: programming 
+   assignment: TBD—Term project milestone due
+   active:
+   writeup:
+   zip:
+   type: programming
    release_date: 2015-11-05
    due_date: 2015-11-12
 -
-   assignment: TBD - maybe String search / suffix array implementation?
-   link: 
+   assignment: TBD—maybe String search / suffix array implementation?
+   active:
+   writeup:
+   zip:
    type: programming/written
    release_date: 2015-11-12
    due_date: 2015-11-19
@@ -78,15 +92,17 @@
    due_date: 2015-12-03
 -
    assignment: Term project due on last day of class
-   link: 
+   active:
+   writeup:
+   zip:
    type: programming
    release_date: 2015-10-13
    due_date: 2015-12-08
 -
-   assignment: Final exam (9am-11am on Tuesday December 15) 
-   link: 
+   assignment: Final exam (9am-11am on Tuesday, December 15)
+   active:
+   writeup:
+   zip:
    type: in-class exam
    release_date: 2015-12-15
    due_date: 2015-12-15
-
-

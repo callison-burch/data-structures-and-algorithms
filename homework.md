@@ -23,13 +23,14 @@ active_tab: homework
           </td>
           <!-- Materials -->
           <td>
-            <span>
-                   {% if homework.active %}
-                     <a href="{{ homework.link }}">Download</a>
-                   {% else %}
-                      Coming Soon
-                   {% endif %}
-            </span>
+            <ul class="list-unstyled">
+              {% if homework.active %}
+                {% if homework.writeup %}<li><a href="{{ homework.writeup }}">Write-up</a></li>{% endif %}
+                {% if homework.zip %}<li><a href="{{ homework.zip }}">Files (zip)</a></li>{% endif %}
+              {% else %}
+                 <li>Coming soon!</li>
+              {% endif %}
+            </ul>
           </td>
           <!-- Dates -->
           <td>{{ homework.release_date | date: "%b %d" }}</td>
