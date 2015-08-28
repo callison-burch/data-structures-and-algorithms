@@ -1,15 +1,12 @@
 ---
 layout: default
-img: textbook.jpg
-img_link: http://algs4.cs.princeton.edu/home/
-caption: The course textbook
 title: CIS 121 Lectures
 active_tab: lectures
 ---
 
 Subject to change as the term progresses.
 
-<table class="table table-striped"> 
+<table class="table table-striped">
   <tbody>
     <tr>
       <th>Date</th>

@@ -1,9 +1,6 @@
 ---
 layout: default
-img: textbook.jpg
-img_link: http://algs4.cs.princeton.edu/home/
-caption: The course textbook
-title: CIS 121 Office Hour Schedule 
+title: CIS 121 Office Hour Schedule
 active_tab: schedule
 ---
 

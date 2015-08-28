@@ -1,13 +1,10 @@
 ---
 layout: default
-img: textbook.jpg
-img_link: http://algs4.cs.princeton.edu/home/
-caption: The course textbook
 title: CIS 121 Labs
 active_tab: labs
 ---
 
-<table class="table table-striped"> 
+<table class="table table-striped">
   <tbody>
     <tr>
       <th>Name</th>
