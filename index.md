@@ -35,31 +35,14 @@ Grading:
 Late day policy:
 : Each student has two free, no-strings-attached late days that they may use on programming and written homeworks. You need not let the course staff know; the course infrastructure tracks this automatically. Once your two late days are used, we will not accept your homework submission. One "day" here is anywhere between 1 second and 24 hours after the homework deadline, and a second "day" is between 24 hours and 48 hours after the homework deadline. Late written homeworks can be turned into Laura Fox in Levine 308. The final project does not have the same late policy; it has its own late policy, which will be announced with its release.
 
---------------------------------------------------------------------------------
+Collaboration policy for written homeworks:
+: You are allowed to discuss solutions to problems in groups of three, *documenting* who you discussed with at the top of your assignment.  You are allowed to ask anyone for LaTeX help (for instance, "How do I center a stack of equations?").
+You are **not** allowed to write up the solutions together. You must do that by yourself.
 
-## The CIS 121 Collaboration Policy
+Collaboration policy for programming homeworks:
+: You are allowed to discuss low-level issues like the meaning of Java constructs, or how to use the computing environment. You are allowed to discuss high-level questions such as what the instructor/lab TA said, the content of the textbook or other general resources.
+ You **not** allowed to...
 
-### Written homeworks
-
-#### You are allowed to...
--   Discuss solutions to these problems in groups of three,
-    *documenting* who you discussed with at the top of your
-    assignment.
--   Ask anyone for LaTeX help (for instance, "How do I center a stack of
-    equations?").
-
-#### You are **not** allowed to...
--   Write up the solutions together. You must do that by yourself.
-
-### Programming homeworks
-
-#### You are allowed to...
--   Discuss low-level issues, e.g., the meaning of Java constructs, how
-    to use the computing environment.
--   Discuss high-level questions such as what the instructor/lab TA
-    said, the content of the textbook or other general resources.
-
-#### You **not** allowed to...
 -   Discuss issues directly pertaining to the homework questions or
     their solutions.
 -   See another students homework solutions, or
@@ -96,4 +79,4 @@ Late day policy:
         of the staff if you are not sure about a resource you are
         considering.
 
-Any violation of this policy will be dealt with severely.
+Any violation of the collaboration policy will be dealt with severely.
