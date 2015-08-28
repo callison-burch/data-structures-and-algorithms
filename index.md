@@ -3,8 +3,8 @@ layout: default
 img: textbook.jpg
 img_link: http://algs4.cs.princeton.edu/home/
 caption: The course textbook
-title: CIS 121 - Fall 2015 - Data Structures and Algorithms 
-active_tab: main_page 
+title: CIS 121—Fall 2015—Data Structures and Algorithms
+active_tab: main_page
 ---
 
 <div class="alert alert-info" markdown="span">
@@ -12,13 +12,13 @@ The course has reached its enrollment cap.  If you were unable to enroll, but ho
 </div>
 
 Course number:
-: CIS 121 - Fall 2015
+: CIS 121---Fall 2015
 
 Instructor:
 : [Chris Callison-Burch](http://www.cis.upenn.edu/~ccb/)
 
 Teaching Assistants:
-: [Course Staff](staff.html) 
+: [Course Staff](staff.html)
 
 Discussion Forum:
 : [Piazza](https://piazza.com/upenn/fall2015/cis121/)
