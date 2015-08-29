@@ -10,7 +10,8 @@ out in order for them to be graded. Written homeworks *must* be typeset in
 LaTeX. Written homeworks must be submitted online as well as offline in paper
 form in class.
 
-For your convenience, we have a LaTeX homework template for you to use.
+For your convenience, we have a [LaTeX homework template](content/hws/hw.cls)
+for you to use.
 
 * [Cover sheet](content/hws/cover_sheet_15fa.pdf)
 * [hw.cls](content/hws/hw.cls)
