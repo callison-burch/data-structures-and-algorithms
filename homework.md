@@ -4,6 +4,19 @@ title: CIS 121 Homework Assignments
 active_tab: homework
 ---
 
+Written homeworks *must* include our [cover
+sheet](content/hw/cover_sheet_15fa.pdf) with the requisite information filled
+out in order for them to be graded. Written homeworks *must* be typeset in
+LaTeX. Written homeworks must be submitted online as well as offline in paper
+form in class.
+
+For your convenience, we have a LaTeX homework template for you to use.
+
+* [Cover sheet](content/hws/cover_sheet_15fa.pdf)
+* [hw.cls](content/hws/hw.cls)
+* [sample_hw.tex](content/hws/sample_hw.tex)
+* [sample_hw.pdf](content/hws/sample_hw.pdf)
+
 <table class="table table-striped">
   <tbody>
     <tr>
