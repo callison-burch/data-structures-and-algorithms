@@ -7,20 +7,17 @@ active_tab: labs
 <table class="table table-striped">
   <tbody>
     <tr>
+      <th>Week of</th>
       <th>Name</th>
       <th>Materials</th>
-      <th>Due Date</th>
     </tr>
       {% for lab in site.data.labs %}
         <tr style="text-align: left">
-          <!-- Homework Name -->
+          <td>{{ lab.date | date: "%b %d" }}</td>
           <td><span>{{ lab.name }}</span></td>
-          <!-- Materials -->
           <td>
             <span><a href="{{ lab.link }}">{{ lab.link_name }}</a></span>
           </td>
-          <!-- Due Date -->
-          <td>{{ lab.date | date: "%b %d" }}</td>
         </tr>
       {% endfor %}
   </tbody>
