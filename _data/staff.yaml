@@ -57,23 +57,23 @@
     lab: 208
     office_hours: Tuesdays 6-8
 -
-    name: Brian Shi
-    pic: brian.jpg
-    email: brishi@seas
-    lab: 209
-    office_hours: Tuesdays 8-10
--
     name: David Freifelder
     pic: david_freifelder.jpg
     email: dfrei@seas
-    lab: 210
+    lab: 209
     office_hours: Thursdays 7-9
 -
     name: JT Cho
     pic: jt.jpg
     email: joncho@seas
-    lab: 211
+    lab: 210
     office_hours: Wednesdays 6-8
+-
+    name: Brian Shi
+    pic: brian.jpg
+    email: brishi@seas
+    lab: 211
+    office_hours: Tuesdays 8-10
 -
     name: Brady Neal
     pic: brady.jpg
