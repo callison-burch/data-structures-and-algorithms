@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CIS 121—Fall 2015—Data Structures and Algorithms
-active_tab: main_page
+active_tab: main-page
 ---
 
 <div class="alert alert-info" markdown="span">
