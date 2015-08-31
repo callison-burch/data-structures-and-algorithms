@@ -2,8 +2,8 @@
   header: 'Java'	
   links: 
     - 
-      text: 'Java 1.5 Documentation'
-      link: http://java.sun.com/j2se/1.5.0/docs/api/
+      text: 'Java 1.8 Documentation'
+      link: https://docs.oracle.com/javase/8/docs/api/
 -
   header: 'Books (free, online)'
   links:
