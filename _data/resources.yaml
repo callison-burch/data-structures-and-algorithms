@@ -1,7 +1,7 @@
-- 
-  header: 'Java'	
-  links: 
-    - 
+-
+  header: 'Java'
+  links:
+    -
       text: 'Java 1.8 Documentation'
       link: https://docs.oracle.com/javase/8/docs/api/
 -
@@ -30,19 +30,19 @@
       link: http://www.seas.upenn.edu/~cis120/current/java_project.shtml
 -
   header: 'JUnit'
-  links: 
-    - 
+  links:
+    -
       text: 'University of Washington tutorial'
       link: http://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.shtml
     -
       text: 'Official JUnit Documentation'
       link: http://junit.sourceforge.net/javadoc/
-- 
+-
   header: 'Coding Conventions'
   links:
     -
       text: '121 Coding Style Guidelines'
-      link: https://www.seas.upenn.edu/~cis121/current/style_guidelines.shtml
+      link: java_style_guide.html
     -
       text: 'Sun''s Java Coding Conventions'
       link: http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html
