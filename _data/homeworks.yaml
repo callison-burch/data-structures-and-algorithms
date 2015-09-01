@@ -1,9 +1,8 @@
-# TODO: update links
 -
-   assignment: Java Warm-Up (Quad-Tree Compression)
+   assignment: Java Warm-Up (Quadtree Compression)
    active:
-   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw02/hw02.pdf
-   zip:
+   writeup: content/hws/hw1/hw1.pdf
+   zip: content/hws/hw1/hw1.zip
    type: programming
    release_date: 2015-09-01
    due_date: 2015-09-08
