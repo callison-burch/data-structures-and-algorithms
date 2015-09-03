@@ -32,6 +32,9 @@
   header: 'JUnit'
   links:
     -
+      test: 'CIS 121 testing guide'
+      link: content/hws/testing_guide.pdf
+    -
       text: 'University of Washington tutorial'
       link: http://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.shtml
     -
