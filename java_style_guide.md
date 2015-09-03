@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Java Coding Style
+title: CIS 121 Java Coding Style
 active_tab: java-style-guide
 ---
 
