@@ -16,11 +16,8 @@ active_tab: staff
         <br />
         {{ staff.email }}<br>
        	{% if staff.lab %}Lab: {{ staff.lab }}<br />{% endif %}
-       	{% if staff.office_hours %}Office Hours: {{ staff.office_hours }}{% endif %}
+       	{% if staff.office_hours %}<span markdown="1">Office Hours: {{ staff.office_hours }}</span>{% endif %}
       </div>
   {% endfor %}
   </div>
 </div>
-
-
-
