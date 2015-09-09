@@ -1,17 +1,18 @@
 -
    assignment: Java Warm-Up (Quadtree Compression)
    active: t
+   type: programming
    writeup: content/hws/hw1/hw1.pdf
    zip: content/hws/hw1/hw1.zip
-   type: programming
    release_date: 2015-09-01
    due_date: 2015-09-08
 
 -
    assignment: Analysis of Algorithms
    active:
-   writeup:
    type: written
+   problem_set: content/hws/hw2/hw2.pdf
+   problem_set_zip: content/hws/hw2/hw2_src.zip
    release_date: 2015-09-08
    due_date: 2015-09-15
 -
