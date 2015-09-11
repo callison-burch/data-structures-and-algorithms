@@ -32,7 +32,7 @@
       title: Chapter 1.4 in the textbook
 -
   date: 2015-09-10
-  slides:slides/03-stacks-and-queues.pdf
+  slides: slides/03-stacks-and-queues.pdf
   title: Stacks and Queues
   highlights:
     - Resizing Arrays
