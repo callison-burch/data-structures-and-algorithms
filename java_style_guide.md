@@ -205,9 +205,7 @@ Additional Style Resources
 -   [Clean
     Code](http://www.e-reading-lib.com/bookreader.php/134601/Martin_-_Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.pdf)
     (free book!)
--   [The Elements of Java
-    Style](http://its.lnpu.edu.ua/edocs1/new_doc/en/Vermeulen%20A.The%20elements%20of%20Java%20style.2001.pdf)
-    (another free book!)
+-   The Elements of Java Style
 -   _Effective Java_, by Joshua Bloch: It’s not free, but… _Effective Java_
     is the go-to book on the Java language and is practically required
     reading at many major tech companies, such as Google and Palantir.
