@@ -25,7 +25,6 @@
   highlights:
     - Mathematical Models
     - Order of Growth Classification
-    - Theory of Algorithms
     - Memory Usage
   reading:
     -
@@ -42,14 +41,12 @@
       title: Chapter 1.3 in the textbook
 -
   date: 2015-09-15
-  slides:
+  slides: slides/04-intro-to-sorting-and-comparators.pdf
   title: Elementary Sorts
   highlights:
     - Selection Sort
     - Insertion Sort
-    - Shellsort
     - Shuffling
-    - Convex Hull
   reading:
     -
       title: Chapter 2.1 in the textbook
@@ -59,7 +56,8 @@
   title: Mergesort
   highlights:
     - Bottom-up Mergesort
-    - Sorting complexiy
+    - Theory of Algorithms
+    - Sorting Complexity
     - Comparators
     - Stability
   reading:
