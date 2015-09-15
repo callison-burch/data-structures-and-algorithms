@@ -21,14 +21,14 @@
    writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw05/hw05.pdf
    zip:
    type: programming
-   release_date: 2015-09-15
-   due_date: 2015-09-22
+   release_date: 2015-09-17
+   due_date: 2015-09-24
 -
    assignment: Sorting
    link:
    type: written
-   release_date: 2015-09-22
-   due_date: 2015-09-29
+   release_date: 2015-09-24
+   due_date: 2015-10-01
 -
    assignment: Midterm 1
    type: in-class exam
