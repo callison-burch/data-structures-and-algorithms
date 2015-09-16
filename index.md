@@ -80,3 +80,15 @@ Collaboration policy for programming homeworks:
         considering.
 
 Any violation of the collaboration policy will be dealt with severely.
+
+Regrade policy for programming homeworks:
+: You may to indicate *small errors* (defined below) that you have made, which,
+    when fixed, will allow your programs to pass autograder tests. You will need
+    to send an email, by the regrade deadline, which is one week after you
+    receive your scores, to
+    [cis121-15fa-staff@googlegroups.com](mailto:cis121-15fa-staff@googlegroups.com).
+    This email must identify exactly the error in your code and include a
+    precise description of the fix that needs to be made. *The fix should not
+    require changing more than 1--2 lines of code.* A TA will make the change
+    and rerun the autograder tests. Your new score will be the maximum of your
+    original score and 80% of your regraded score.
