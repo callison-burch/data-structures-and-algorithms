@@ -17,7 +17,7 @@
    due_date: 2015-09-15
 -
    assignment: Dequeues and Dijkstra's "Shunting Yard" Algorithm
-   active:
+   active: t
    writeup: content/hws/hw3/hw3.pdf
    zip: content/hws/hw3/hw3.zip
    type: programming
