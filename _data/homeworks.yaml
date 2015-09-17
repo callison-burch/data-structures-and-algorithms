@@ -18,8 +18,8 @@
 -
    assignment: Dequeues and Dijkstra's "Shunting Yard" Algorithm
    active:
-   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw05/hw05.pdf
-   zip:
+   writeup: content/hws/hw3/hw3.pdf
+   zip: content/hws/hw3/hw3.zip
    type: programming
    release_date: 2015-09-17
    due_date: 2015-09-24
