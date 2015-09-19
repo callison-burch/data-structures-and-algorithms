@@ -10,6 +10,7 @@ active_tab: labs
       <th>Week of</th>
       <th>Name</th>
       <th>Materials</th>
+      <th>Solutions</th>
     </tr>
       {% for lab in site.data.labs %}
         <tr style="text-align: left">
@@ -18,6 +19,7 @@ active_tab: labs
           <td>
             <span><a href="{{ lab.link }}">{{ lab.link_name }}</a></span>
           </td>
+          <td>{% if lab.solutions_link %}<a href = "{{ lab.solutions_link }}">Solutions</a>{% else %}Coming soon!{% endif %}</td>
         </tr>
       {% endfor %}
   </tbody>

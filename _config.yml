@@ -1,3 +1,4 @@
+keep_files: ['content/', 'protected_content']
 exclude: ['README.md', 'Gemfile', '.bundle/', 'vendor/']
 timezone: US/Eastern
 markdown: kramdown
