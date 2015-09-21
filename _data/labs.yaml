@@ -11,3 +11,10 @@
    link_name: big_oh.pdf
    link: content/labs/big_oh/big_oh.pdf
    solutions_link: protected_content/labs/big_oh_sols/big_oh_sols.pdf
+
+-
+   date: 2015-09-21
+   name: Stacks and Queues
+   link_name: stacks_and_queues.pdf
+   link: content/labs/stacks_and_queues/stacks_and_queues.pdf
+   solutions_link:
