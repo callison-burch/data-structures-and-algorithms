@@ -55,9 +55,7 @@
   slides:
   title: Mergesort
   highlights:
-    - Bottom-up Mergesort
-    - Theory of Algorithms
-    - Sorting Complexity
+    - Bottom-up Mergesort    - Sorting Complexity
     - Comparators
     - Stability
   reading:
@@ -69,9 +67,10 @@
   title: TBD (Instructor traveling to a conference)
 -
   date: 2015-09-24
-  slides:
+  slides: slides/05-mergesort.pdf
   title: Quicksort
   highlights:
+    - Theory of Algorithms
     - Selection
     - Duplicate Keys
     - System sorts
