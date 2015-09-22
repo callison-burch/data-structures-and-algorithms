@@ -108,3 +108,10 @@ Regrade policy for programming homeworks:
     problem whose fix should not require changing more than 1--2 lines of code.
     A TA will make the change and rerun the autograder tests. Your new score
     will be the maximum of your original score and 80% of your regraded score.
+
+Regrade policy for written homeworks and exams:
+: Please fill out the
+[regrade request form](content/hws/regrade_request_15fa.pdf) and bring it to the
+course administrator, Britton Carnevali, in Levin 310, together with the
+assignment or exam by the regrade deadline. Regrades are due *one week* after
+the assignment or exam has been returned with your score.
