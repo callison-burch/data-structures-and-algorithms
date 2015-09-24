@@ -25,7 +25,9 @@
    due_date: 2015-09-24
 -
    assignment: Sorting
-   link:
+   active: t
+   problem_set: content/hws/hw4/hw4.pdf
+   problem_set_zip: content/hws/hw4/hw4_src.zip
    type: written
    release_date: 2015-09-24
    due_date: 2015-10-01
