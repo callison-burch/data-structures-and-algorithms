@@ -52,7 +52,7 @@
       title: Chapter 2.1 in the textbook
 -
   date: 2015-09-17
-  slides:slides/05-mergesort.pdf
+  slides: slides/05-mergesort.pdf
   title: Mergesort
   highlights:
     - Bottom-up Mergesort
