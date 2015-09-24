@@ -68,7 +68,7 @@
   title: TBD (Instructor traveling to a conference)
 -
   date: 2015-09-24
-  slides: 
+  slides: slides/06-quicksort.pdf
   title: Quicksort
   highlights:
     - Theory of Algorithms
