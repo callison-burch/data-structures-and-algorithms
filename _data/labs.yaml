@@ -18,3 +18,10 @@
    link_name: stacks_and_queues.pdf
    link: content/labs/stacks_and_queues/stacks_and_queues.pdf
    solutions_link:
+
+-
+   date: 2015-09-28
+   name: Sorting
+   link_name: sorting.pdf
+   link: content/labs/sorting/sorting.pdf
+   solutions_link:
