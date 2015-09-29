@@ -65,7 +65,7 @@
 -
   date: 2015-09-22
   slides:
-  title: TBD (Instructor traveling to a conference)
+  title: Optional review lecture given by TAs (Instructor traveling to a conference)
 -
   date: 2015-09-24
   slides: slides/06-quicksort.pdf
@@ -80,11 +80,12 @@
       title: Chapter 2.3 in the textbook
 -
   date: 2015-09-29
-  slides:
-  title: Priority Queues
+  slides: slides/07-sorting-wrapup.pdf
+  title: Sorting wrap up
   highlights:
-    - Binary Heaps
-    - Heapsort
+    - Selection
+    - Pitfalls of quicksort
+    - The theory of algorithms
   reading:
     -
       title: Chapter 2.4 in the textbook
@@ -99,12 +100,25 @@
     -
       title: Review chapters 1.3-1.5 and 2.1-2.4 in the textbook
 -
-  date: 2015-10-02
+  date: 2015-10-06
+  slides:
+  title: Priority Queues
+  highlights:
+    - Binary Heaps
+    - Heapsort
+  reading:
+    -
+      title: Chapter 2.4 in the textbook
+-
+  date: 2015-10-08
+  title: No class (Fall Term Break)
+-
+  date: 2015-10-09
   title: Drop deadline
   highlights:
-    - We will attempt to make grades for Midterm 1 available by the end of the day, before the midnight drop deadline
+    - We will make grades for Midterm 1 available by the drop deadline
 -
-  date: 2015-10-06
+  date: 2015-10-13
   slides:
   title: Symbol Table
   highlights:
@@ -115,10 +129,7 @@
     -
       title: Chapters 3.1 and 3.2 in the textbook
 -
-  date: 2015-10-08
-  title: No class (Fall Term Break)
--
-  date: 2015-10-13
+  date: 2015-10-15
   slides:
   title: Balanced Search Trees
   highlights:
@@ -128,7 +139,7 @@
     -
       title: Chapter 3.3 in the textbook
 -
-  date: 2015-10-15
+  date: 2015-10-20
   slides:
   title: Hash Tables
   highlights:
@@ -140,7 +151,7 @@
     -
       title: Chapter 3.4 in the textbook
 -
-  date: 2015-10-20
+  date: 2015-10-22
   slides:
   title: Undirected Graphs
   highlights:
@@ -154,7 +165,7 @@
     -
       title: Chapter 4.1 in the textbook
 -
-  date: 2015-10-22
+  date: 2015-10-27
   slides:
   title: Directed Graphs
   highlights:
@@ -166,7 +177,7 @@
     -
       title: Chapter 4.2 in the textbook
 -
-  date: 2015-10-27
+  date: 2015-10-29
   slides:
   title: Minimum Spanning Trees
   highlights:
@@ -178,7 +189,17 @@
     -
       title: Chapter 4.3 in the textbook
 -
-  date: 2015-10-29
+  date: 2015-11-03
+  title: Midterm 2
+  highlights:
+    - Search Trees
+    - Hash Tables
+    - Graphs
+  reading:
+    -
+      title: Review chapters 3.1-3.5 and 4.1-4.4 of the textbook
+-
+  date: 2015-11-05
   slides:
   title: Shortest Paths
   highlights:
@@ -190,15 +211,10 @@
     -
       title: Chapter 4.4 in the textbook
 -
-  date: 2015-11-03
-  title: Midterm 2
+  date: 2015-11-06
+  title: Withdraw Deadline
   highlights:
-    - Search Trees
-    - Hash Tables
-    - Graphs
-  reading:
-    -
-      title: Review chapters 3.1-3.5 and 4.1-4.4 of the textbook
+    - We will attempt to make grades for Midterm 2 available by the end of the day, before the midnight withdraw deadline
 -
   date: 2015-11-05
   title: Strings
@@ -212,13 +228,7 @@
     -
       title: Chapter 5.1 the textbook
 -
-  date: 2015-11-06
-  title: Withdraw Deadline
-  highlights:
-    - We will attempt to make grades for Midterm 2 available by the end of the day, before the midnight withdraw deadline
-
--
-  date: 2015-11-10
+  date: 2015-11-12
   title: Tries
   highlights:
     - R-way Tries
@@ -228,7 +238,7 @@
     -
       title: Chapter 5.2 the textbook
 -
-  date: 2015-11-12
+  date: 2015-11-17
   title: Substring Search
   highlights:
     - Brute Force Substring Search
@@ -239,7 +249,7 @@
     -
       title: Chapter 5.3 the textbook
 -
-  date: 2015-11-17
+  date: 2015-11-19
   title: Regular Expressions
   highlights:
     - Regular Expressions and Non-deterministic Finite State Automata
@@ -250,7 +260,7 @@
     -
       title: Chapter 5.4 the textbook
 -
-  date: 2015-11-19
+  date: 2015-11-24
   title: Data Compression
   highlights:
     - Run-Length Coding
@@ -260,7 +270,10 @@
     -
       title: Chapter 5.5 the textbook
 -
-  date: 2015-11-24
+  date: 2015-11-26
+  title: No class today (Thanksgiving Break)
+-
+  date: 2015-12-01
   title: TBD - maybe Reductions    (Thursday Schedule Today)
   highlights:
     - Designing Algorithms
@@ -270,10 +283,7 @@
     -
       title: Chapter 6 the textbook (Reductions)
 -
-  date: 2015-11-26
-  title: No class today (Thanksgiving Break)
--
-  date: 2015-12-01
+  date: 2015-12-03
   title: TBD - maybe Linear Programming
   highlights:
     - Brewer's Problem
@@ -283,7 +293,7 @@
     -
       title: Chapter 6 the textbook (Linear Programming)
 -
-  date: 2015-12-03
+  date: 2015-12-08
   title: TBD - maybe Intractability
   highlights:
     - Search Problems
