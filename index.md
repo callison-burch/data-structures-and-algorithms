@@ -4,10 +4,6 @@ title: CIS 121—Fall 2015—Data Structures and Algorithms
 active_tab: main-page
 ---
 
-<div class="alert alert-info" markdown="span">
-The course has reached its enrollment cap.  If you were unable to enroll, but hope to join the class, please sign-up for the [CIS 121 Fall 2015 waitlist](https://docs.google.com/forms/d/17whkGNwnCrwIey4vWwmbsPj34mDS5CBB968OFJHHXFI/viewform).
-</div>
-
 Course number:
 : CIS 121---Fall 2015
 
