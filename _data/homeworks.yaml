@@ -55,8 +55,8 @@
    writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw11/hw11.pdf
    zip:
    type: programming
-   release_date: 2015-10-20
-   due_date: 2015-10-27
+   release_date: 2015-10-22
+   due_date: 2015-10-29
 -
 
    assignment: Breadth-First Search and Minimum Spanning Trees
@@ -64,8 +64,8 @@
    writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw09/hw09.pdf
    zip:
    type: programming
-   release_date: 2015-10-27
-   due_date: 2015-11-03
+   release_date: 2015-10-29
+   due_date: 2015-11-05
 -
    assignment: Midterm 2
    type: in-class exam
