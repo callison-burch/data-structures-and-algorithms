@@ -33,6 +33,7 @@
    due_date: 2015-10-01
 -
    assignment: Midterm 1
+   active: t
    type: in-class exam
    release_date: 2015-10-01
    due_date: 2015-10-01
