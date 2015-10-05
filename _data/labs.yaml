@@ -25,3 +25,10 @@
    link_name: sorting.pdf
    link: content/labs/sorting/sorting.pdf
    solutions_link: protected_content/labs/sorting_sol/sorting_sol.pdf
+
+-
+   date: 2015-10-05
+   name: Heaps
+   link_name: heaps.pdf
+   link: content/labs/heaps/heaps.pdf
+   solutions_link:
