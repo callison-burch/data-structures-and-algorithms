@@ -42,13 +42,13 @@
    link:
    type: written
    release_date: 2015-10-06
-   due_date: 2015-10-13
+   due_date: 2015-10-15
 -
    assignment: Whole Term Project assigned—small deliverable due in 1 week
    link:
    type: programming
-   release_date: 2015-10-13
-   due_date: 2015-10-20
+   release_date: 2015-10-15
+   due_date: 2015-10-22
 -
    assignment: Hashing and Tries
    active:
