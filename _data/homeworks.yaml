@@ -39,16 +39,18 @@
    due_date: 2015-10-01
 -
    assignment: Heaps/Priority Queues
-   link:
+   active: t
+   problem_set: content/hws/hw5/hw5.pdf
+   problem_set_tex: content/hws/hw5/hw5.tex
    type: written
-   release_date: 2015-10-06
+   release_date: 2015-10-07
    due_date: 2015-10-15
 -
    assignment: Whole Term Project assigned—small deliverable due in 1 week
    link:
    type: programming
-   release_date: 2015-10-15
-   due_date: 2015-10-22
+   release_date: 2015-10-13
+   due_date: 2015-10-20
 -
    assignment: Hashing and Tries
    active:
