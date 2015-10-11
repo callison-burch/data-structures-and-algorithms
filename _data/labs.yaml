@@ -31,4 +31,11 @@
    name: Heaps
    link_name: heaps.pdf
    link: content/labs/heaps/heaps.pdf
-   solutions_link:
+   solutions_link: protected_content/labs/heaps/heaps-sol.pdf
+
+-
+   date: 2015-10-05
+   name: Binary Search Trees
+   link_name: binary_search_trees.pdf
+   link: content/labs/binary_search_trees/binary_search_trees.pdf
+   solutions_link: # protected_content/labs/binary_search_trees/binary_search_trees_soln.pdf
