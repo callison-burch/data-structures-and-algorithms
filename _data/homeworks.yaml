@@ -47,6 +47,7 @@
    due_date: 2015-10-15
 -
    assignment: Whole Term Project assigned—small deliverable due in 1 week
+   active: t
    writeup: content/hws/project/project.pdf
    zip: content/hws/project/project.zip
    type: programming
