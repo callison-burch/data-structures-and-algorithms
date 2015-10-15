@@ -20,14 +20,17 @@
       text: 'Online Java Textbook'
       link: http://www.oopweb.com/Java/Documents/IntroToProgrammingUsingJava/VolumeFrames.html
 -
-  header: 'Eclipse (from CIS 120)'
+  header: 'Eclipse'
   links:
     -
-      text: 'Installation (go to step 3)'
+      text: '(CIS 120) Installation (go to step 3)'
       link: http://www.seas.upenn.edu/~cis120/current/ocaml_setup.shtml
     -
-      text: 'Project Set-up'
+      text: '(CIS 120) Project Set-up'
       link: http://www.seas.upenn.edu/~cis120/current/java_project.shtml
+    -
+      text: 'Maven Eclipse Setup Guide'
+      link: https://drive.google.com/open?id=16s3lIgEyCOSpuwO8jkhYQ6p7dlOgQKpLH78YMgFcpJ8
 -
   header: 'JUnit'
   links:
