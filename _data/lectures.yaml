@@ -109,6 +109,9 @@
   reading:
     -
       title: Chapter 2.4 in the textbook
+    -
+      title: Event-driven simulation slides (bonus materials, not on the exam)
+      url: slides/08-priority-queues-supplemental.pdf
 -
   date: 2015-10-08
   title: No class (Fall Term Break)
@@ -119,7 +122,7 @@
     - We will make grades for Midterm 1 available by the drop deadline
 -
   date: 2015-10-13
-  slides:
+  slides: slides/09-symbol-tables-and-binary-trees.pdf
   title: Symbol Table
   highlights:
     - Symbol Table API
@@ -128,9 +131,12 @@
   reading:
     -
       title: Chapters 3.1 and 3.2 in the textbook
+    -
+      title: Additional slides not covered in lecture (potentially on the exam)
+      url: slides/09-symbol-tables-and-binary-trees-supplemental.pdf
 -
   date: 2015-10-15
-  slides:
+  slides: slides/10-balanced-search-trees.pdf
   title: Balanced Search Trees
   highlights:
     - 2-3 Search Trees
