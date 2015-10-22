@@ -52,9 +52,9 @@
    zip: content/hws/project/project.zip
    type: programming
    release_date: 2015-10-15
-   due_date: 2015-10-22
+   due_date: 2015-10-23
 -
-   assignment: Hashing and Tries
+   assignment: Hashing
    active:
    writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw11/hw11.pdf
    zip:
@@ -84,7 +84,7 @@
    release_date: 2015-11-05
    due_date: 2015-11-12
 -
-   assignment: TBD—maybe String search / suffix array implementation?
+   assignment: TBD—Tries, and maybe string search / suffix array implementation?
    active:
    writeup:
    zip:
