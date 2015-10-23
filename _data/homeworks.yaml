@@ -55,9 +55,9 @@
    due_date: 2015-10-23
 -
    assignment: Hashing
-   active:
-   writeup: http://www.seas.upenn.edu/~cis121/15sp/hws/hw11/hw11.pdf
-   zip:
+   active: t
+   writeup: content/hws/hw6/hw6.pdf
+   zip: content/hws/hw6/hw6.zip
    type: programming
    release_date: 2015-10-22
    due_date: 2015-10-29
