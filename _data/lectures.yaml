@@ -161,7 +161,7 @@
       url: slides/11-hash-tables-applications.pdf
 -
   date: 2015-10-22
-  slides:
+  slides: slides/12-undirected-graphs.pdf
   title: Undirected Graphs
   highlights:
     - Intro to Graphs
