@@ -34,15 +34,22 @@
    solutions_link: protected_content/labs/heaps/heaps-sol.pdf
 
 -
-   date: 2015-10-05
+   date: 2015-10-12
    name: Binary Search Trees
    link_name: binary_search_trees.pdf
    link: content/labs/binary_search_trees/binary_search_trees.pdf
    solutions_link: protected_content/labs/binary_search_trees/binary_search_trees_soln.pdf
 
 -
-   date: 2015-10-05
+   date: 2015-10-19
    name: Hashing
    link_name: hashing.pdf
    link: content/labs/hashing/hashing.pdf
    solutions_link: # protected_content/hashing/hashing_soln.pdf
+
+-
+   date: 2015-10-26
+   name: Graphs
+   link_name: graphs.pdf
+   link: content/labs/graphs/graphs.pdf
+   solutions_link:
