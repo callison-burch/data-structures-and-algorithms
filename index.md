@@ -35,12 +35,15 @@ Late day policy:
 : Each student has two free, no-strings-attached late days that they may use on
 programming and written homeworks. At the end of the semester, we will arrange
 your late day usage so that you will receive the optimal homework average. If
-you are out of late days, then you will incur a 25% penalty on the homework for
-each day late. One "day" here is anywhere between 1 second and 24 hours after
-the homework deadline, and a second "day" is between 24 hours and 48 hours after
-the homework deadline. Late written homeworks can be turned in to Britton
-Carnevali in Levine 308. The final project does not have the same late policy;
-it has its own late policy, which will be announced with its release.
+you are out of late days, then you will incur a penalty equal to 25% of the **total
+possible score** of the homework for each day late. 
+One "day" here is anywhere between 1 second and 24 hours after the homework 
+deadline, and a second "day" is between 24 hours and 48 hours after the homework 
+deadline. Late written homeworks can be turned in to Britton Carnevali in Levine 
+308. The final project does not have the same late policy; it has its own late policy, 
+which will be announced with its release.
+
+You will never get a negative score for any homework.
 
 Collaboration policy for written homeworks:
 : You are allowed to discuss solutions to problems in groups of three,
