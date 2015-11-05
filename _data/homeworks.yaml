@@ -75,9 +75,9 @@
    release_date: 2015-11-03
    due_date: 2015-11-03
 -
-   assignment: TBD—Term project milestone due
-   active:
-   writeup:
+   assignment: Term project: Milestone 2
+   active: t 
+   writeup: content/hws/project/project.pdf
    zip:
    type: programming
    release_date: 2015-11-05
@@ -87,7 +87,7 @@
    active:
    writeup:
    zip:
-   type: programming/written
+   type: programming
    release_date: 2015-11-12
    due_date: 2015-11-19
 -
