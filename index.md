@@ -111,3 +111,7 @@ Regrade policy for written homeworks and exams:
 course administrator, Britton Carnevali, in Levin 310, together with the
 assignment or exam by the regrade deadline. Regrades are due *one week* after
 the assignment or exam has been returned with your score.
+
+<div class="embed-responsive embed-responsive-4by3">
+    <iframe src="https://docs.google.com/forms/d/1J2VSmpl-IHnerZphDK0U1KyBTYIWggzxeJdzXzVevQs/viewform?embedded=true" class="embed-responsive-item">Loading...</iframe>
+</div>
