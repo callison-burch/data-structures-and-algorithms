@@ -60,3 +60,10 @@
    link_name: mst_scc.pdf
    link: content/labs/mst_scc/mst_scc.pdf
    solutions_link: protected_content/labs/mst_scc/mst_scc_sol.pdf
+
+-
+   date: 2015-11-09
+   name: Shortest paths
+   link_name: shortest_path.pdf
+   link: content/labs/shortest_path/shortest_path.pdf
+   solutions_link: # protected_content/labs/shortest_path/shortest_path_soln.pdf
