@@ -9,8 +9,8 @@
     <!-- CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/syntax.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/syntax.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -33,37 +33,31 @@
             <span class="icon-bar"></span>
           </button>
           <ul class="nav navbar-nav">
-            <div class="hidden-sm hidden-xs"><li id="main-page"><a href="index.html" class="navbar-brand">CIS 121—Data Structures and Algorithms</a></li></div>
-            <div class="visible-sm visible-xs"><li id="main-page"><a href="index.html" class="navbar-brand">CIS 121</a></li></div>
+            <div class="hidden-sm hidden-xs"><li id="main-page"><a href="{{ site.baseurl }}/index.html" class="navbar-brand">CIS 121—Data Structures and Algorithms</a></li></div>
+            <div class="visible-sm visible-xs"><li id="main-page"><a href="{{ site.baseurl }}/index.html" class="navbar-brand">CIS 121</a></li></div>
           </ul>
         </div>
         <nav class="collapse navbar-collapse" role="navigation">
           <ul class="nav navbar-nav">
-            <li id="lectures"><a href="lectures.html">Lectures</a></li>
-            <li id="labs"><a href="labs.html">Labs</a>
-              <!-- <a class="dropdown-toggle" data-toggle="dropdown" href="#">Labs <span class="caret"></span></a>
-              <ol class="dropdown-menu">
-                <li><a href="lab1.html">Lab 1 (due XXX)</a></li>
-              </ol>-->
-            </li>
+            <li id="lectures"><a href="{{ site.baseurl }}/lectures.html">Lectures</a></li>
+            <li id="labs"><a href="{{ site.baseurl }}/labs.html">Labs</a></li>
             <li id="homework"><!-- <a href="homework.html">Homework</a> -->
-              <a class="dropdown-toggle" data-toggle="dropdown" href="homework.html">Homework <span class="caret"></span></a>
+              <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/homework.html">Homework <span class="caret"></span></a>
               <ol class="dropdown-menu">
-                <li><a href="homework.html">Homework Materials</a></li>
+                <li><a href="{{ site.baseurl }}/homework.html">Homework Materials</a></li>
                 <li><a href="https://fling.seas.upenn.edu/~cis121/cgi-bin/15fa/submit.cgi">Submission</a></li>
                 <li><a href="https://webdav.seas.upenn.edu/~cis121/webdav/maven2/site/">Maven Site</a></li>
-                <li><a href="java_style_guide.html">Java Style Guide</a></li>
-                <li><a href="testing_guide.html">Testing Guide</a></li>
+                <li><a href="{{ site.baseurl }}/java_style_guide.html">Java Style Guide</a></li>
+                <li><a href="{{ site.baseurl }}/testing_guide.html">Testing Guide</a></li>
                 <li><a href="https://drive.google.com/open?id=16s3lIgEyCOSpuwO8jkhYQ6p7dlOgQKpLH78YMgFcpJ8">Maven Eclipse Setup Guide</a></li>
               </ol>
             </li>
-            <li id="staff"><a href="staff.html">Staff</a></li>
-            <!-- <li id="java-style-guide"><a href="java_style_guide.html">Java Style Guide</a></li> -->
-            <li id="schedule"><a href="schedule.html">Office Hours</a></li>
+            <li id="staff"><a href="{{ site.baseurl }}/staff.html">Staff</a></li>
+            <li id="schedule"><a href="{{ site.baseurl }}/schedule.html">Office Hours</a></li>
             <li id="tutoring"><a href="http://www.vpul.upenn.edu/tutoring/">Tutoring</a></li>
 
             </li>
-            <li id="resources"><a href="resources.html">Resources</a></li>
+            <li id="resources"><a href="{{ site.baseurl }}/resources.html">Resources</a></li>
           </ul>
         </nav>
       </div>
