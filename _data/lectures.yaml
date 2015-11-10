@@ -227,6 +227,7 @@
     - We will attempt to make grades for Midterm 2 available by the end of the day, before the midnight withdraw deadline
 -
   date: 2015-11-10
+  slides: slides/16-strings.pdf
   title: Strings
   highlights:
     - Key-Indexed Counting
