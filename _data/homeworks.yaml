@@ -76,17 +76,16 @@
    due_date: 2015-11-03
 -
    assignment: "Term project: Milestone 2"
-   active: t 
+   active: t
    writeup: content/hws/project/project.pdf
    zip:
    type: programming
    release_date: 2015-11-05
    due_date: 2015-11-12
 -
-   assignment: TBD—Tries, and maybe string search / suffix array implementation?
-   active:
-   writeup:
-   zip:
+   assignment: Tries and Boggle
+   writeup: content/hws/hw8/hw8.pdf
+   zip: content/hws/hw8/hw8.zip
    type: programming
    release_date: 2015-11-12
    due_date: 2015-11-19
