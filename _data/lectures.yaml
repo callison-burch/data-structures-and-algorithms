@@ -240,6 +240,7 @@
       title: Chapter 5.1 the textbook
 -
   date: 2015-11-12
+  slides: slides/17-tries.pdf
   title: Tries
   highlights:
     - R-way Tries
