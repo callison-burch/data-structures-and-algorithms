@@ -273,7 +273,7 @@
       title: Chapter 5.4 the textbook
 -
   date: 2015-11-24
-  title: Data Compression
+  title: Data Compression    (Thursday Schedule Today)
   highlights:
     - Run-Length Coding
     - Huffman Compression
@@ -286,7 +286,7 @@
   title: No class today (Thanksgiving Break)
 -
   date: 2015-12-01
-  title: TBD - maybe Reductions    (Thursday Schedule Today)
+  title: TBD - maybe Reductions
   highlights:
     - Designing Algorithms
     - Establishing Lower Bounds

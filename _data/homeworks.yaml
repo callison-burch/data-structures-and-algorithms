@@ -71,6 +71,7 @@
    due_date: 2015-11-05
 -
    assignment: Midterm 2
+   active: t
    type: in-class exam
    release_date: 2015-11-03
    due_date: 2015-11-03
