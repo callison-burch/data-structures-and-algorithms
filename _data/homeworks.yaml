@@ -84,6 +84,7 @@
    due_date: 2015-11-12
 -
    assignment: Tries and Boggle
+   active: t
    writeup: content/hws/hw8/hw8.pdf
    zip: content/hws/hw8/hw8.zip
    type: programming
