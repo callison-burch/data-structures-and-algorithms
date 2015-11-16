@@ -66,7 +66,7 @@
    name: Shortest paths
    link_name: shortest_path.pdf
    link: content/labs/shortest_path/shortest_path.pdf
-   solutions_link: # protected_content/labs/shortest_path/shortest_path_soln.pdf
+   solutions_link: protected_content/labs/shortest_path/shortest_path_soln.pdf
 
 -
    date: 2015-11-16
