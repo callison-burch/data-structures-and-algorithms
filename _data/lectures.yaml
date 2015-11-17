@@ -250,6 +250,17 @@
     -
       title: Chapter 5.2 the textbook
 -
+  date: 2015-11-17
+  slides: slides/17-tries.pdf
+  title: Tries (continued)
+  highlights:
+    - R-way Tries
+    - Ternary Search Tries
+    - Character-Based Operations
+  reading:
+    -
+      title: Chapter 5.2 the textbook
+-
   date: 2015-11-19
   slides: slides/18-data-compression.pdf
   title: Data Compression 
