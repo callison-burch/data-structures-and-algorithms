@@ -250,7 +250,18 @@
     -
       title: Chapter 5.2 the textbook
 -
-  date: 2015-11-17
+  date: 2015-11-19
+  slides: slides/18-data-compression.pdf
+  title: Data Compression 
+  highlights:
+    - Run-Length Coding
+    - Huffman Compression
+    - LZW Compression
+  reading:
+    -
+      title: Chapter 5.5 the textbook
+-
+  date: 2015-11-24    (Thursday Schedule Today)
   title: Substring Search
   highlights:
     - Brute Force Substring Search
@@ -261,7 +272,10 @@
     -
       title: Chapter 5.3 the textbook
 -
-  date: 2015-11-19
+  date: 2015-11-26
+  title: No class today (Thanksgiving Break)
+-
+  date: 2015-12-01
   title: Regular Expressions
   highlights:
     - Regular Expressions and Non-deterministic Finite State Automata
@@ -271,19 +285,6 @@
   reading:
     -
       title: Chapter 5.4 the textbook
--
-  date: 2015-11-24
-  title: Data Compression    (Thursday Schedule Today)
-  highlights:
-    - Run-Length Coding
-    - Huffman Compression
-    - LZW Compression
-  reading:
-    -
-      title: Chapter 5.5 the textbook
--
-  date: 2015-11-26
-  title: No class today (Thanksgiving Break)
 -
   date: 2015-12-01
   title: TBD - maybe Reductions
