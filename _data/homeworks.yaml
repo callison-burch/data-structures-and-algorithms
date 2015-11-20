@@ -92,10 +92,12 @@
    release_date: 2015-11-12
    due_date: 2015-11-19
 -
-   assignment: Huffman Coding
-   link: http://www.seas.upenn.edu/~cis121/15sp/hws/hw07/hw07.pdf
+   assignment: Compression
+   active: t
+   writeup: content/hws/hw9/hw9.pdf
+   zip: content/hws/hw9/hw9.zip
    type: programming
-   release_date: 2015-11-19
+   release_date: 2015-11-20
    due_date: 2015-12-03
 -
    assignment: Term project due on last day of class
