@@ -92,6 +92,14 @@
    release_date: 2015-11-12
    due_date: 2015-11-19
 -
+   assignment: "Term project: Milestone 3"
+   active: t
+   writeup: content/hws/project/project.pdf
+   zip:
+   type: programming
+   release_date: 2015-11-22
+   due_date: 2015-12-01
+-
    assignment: Compression
    active: t
    writeup: content/hws/hw9/hw9.pdf
