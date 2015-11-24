@@ -273,6 +273,7 @@
       title: Chapter 5.5 the textbook
 -
   date: 2015-11-24    (Thursday Schedule Today)
+  slides: slides/19-substring-search.pdf
   title: Substring Search
   highlights:
     - Brute Force Substring Search
