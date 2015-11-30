@@ -80,4 +80,6 @@
    name: Huffman Compression
    link_name: huffman.pdf
    link: content/labs/huffman/huffman.pdf
+   extra_link_name: kmp.pdf
+   extra_link: content/labs/kmp/kmp.pdf
    solutions_link:
