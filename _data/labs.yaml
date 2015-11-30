@@ -74,3 +74,10 @@
    link_name: radix_sort_tries.pdf
    link: content/labs/radix_sort_tries/radix_sort_tries.pdf
    solutions_link: #
+
+-
+   date: 2015-11-30
+   name: Huffman Compression
+   link_name: huffman.pdf
+   link: content/labs/huffman/huffman.pdf
+   solutions_link:
