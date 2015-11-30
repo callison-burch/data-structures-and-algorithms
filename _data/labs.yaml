@@ -73,7 +73,7 @@
    name: Radix sort, tries
    link_name: radix_sort_tries.pdf
    link: content/labs/radix_sort_tries/radix_sort_tries.pdf
-   solutions_link: #
+   solutions_link: protected_content/labs/radix_sort_tries_soln.pdf
 
 -
    date: 2015-11-30
