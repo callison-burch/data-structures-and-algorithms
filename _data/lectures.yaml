@@ -278,8 +278,6 @@
   highlights:
     - Brute Force Substring Search
     - Knuth-Morris-Pratt
-    - Boyer-Moore
-    - Rabin-Karp
   reading:
     -
       title: Chapter 5.3 the textbook
@@ -289,16 +287,16 @@
 -
   date: 2015-12-01
   title: Regular Expressions
+  slides: slides/20-regular-expressions.pdf
   highlights:
     - Regular Expressions and Non-deterministic Finite State Automata
     - NFA Simulation
     - NFA Construction
-    - Applications of Regular Expressions
   reading:
     -
       title: Chapter 5.4 the textbook
 -
-  date: 2015-12-01
+  date: 2015-12-03
   title: TBD - maybe Reductions
   highlights:
     - Designing Algorithms
@@ -307,16 +305,6 @@
   reading:
     -
       title: Chapter 6 the textbook (Reductions)
--
-  date: 2015-12-03
-  title: TBD - maybe Linear Programming
-  highlights:
-    - Brewer's Problem
-    - Simplex Algorithm
-    - Linear Programming Reductions
-  reading:
-    -
-      title: Chapter 6 the textbook (Linear Programming)
 -
   date: 2015-12-08
   title: TBD - maybe Intractability
