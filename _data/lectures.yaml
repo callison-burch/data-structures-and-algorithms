@@ -297,7 +297,8 @@
       title: Chapter 5.4 the textbook
 -
   date: 2015-12-03
-  title: TBD - maybe Reductions
+  title: Reductions
+  slides: slides/21-reductions.pdf
   highlights:
     - Designing Algorithms
     - Establishing Lower Bounds
@@ -305,19 +306,6 @@
   reading:
     -
       title: Chapter 6 the textbook (Reductions)
--
-  date: 2015-12-08
-  title: TBD - maybe Intractability
-  highlights:
-    - Search Problems
-    - Polynomial versus Non-Polynomial Problems (P versus NP)
-    - Classifying Problems
-    - NP-Completeness
-    - Coping with Intractability
-  reading:
-    -
-      title: Chapter 6 the textbook (Intractability)
--
   date: 2015-12-08
   title: Course Wrap-up
 -
