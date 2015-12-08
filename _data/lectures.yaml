@@ -308,17 +308,33 @@
       title: Chapter 6 the textbook (Reductions)
 -
   date: 2015-12-08
-  title: Course Wrap-up
+  title: Intractability and Course Wrap-up
+  slides: slides/21-reductions.pdf
+  highlights:
+    - Intractability 
+    - P and NP
+    - 3-SAT and NP-completeness 
+    - What I hope you take away from this course
 -
   date: 2015-12-15
   title: Final Exam (9am-11am on Tuesday December 15)
   highlights:
+    - Roughly 50% of the exam will be drawn from materials after midterm 2, including
+    - Shortest Paths
+    - Radix Sort
     - Tries
-    - Regular Expressions
-    - Data Compression
-    - Reductions
-    - Intractability
-    - Everything else from the Course
+    - Data compression
+    - Substring search
+    - Regular expressions
+    - The remaining 50% will cover topics from earlier parts of the class, including
+    - Java knowledge
+    - Order of growth classification
+    - Sorting
+    - Priority queues
+    - Balanced search trees
+    - Hash tables
+    - Graph algorithms
+    - MSTs
   reading:
     -
       title: Review chapters 5.1-5.5 from the textbook, plus chapters 1-4
