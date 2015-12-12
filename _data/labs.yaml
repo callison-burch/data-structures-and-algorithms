@@ -3,14 +3,14 @@
    name: Introduction to Problem Solving
    link_name: intro.pdf
    link: content/labs/intro/intro.pdf
-   solutions_link: protected_content/labs/intro_sols/intro_sols.pdf
+   solutions_link: protected_content/labs/intro/intro_sols.pdf
 
 -
    date: 2015-09-14
    name: Analysis of Algorithms
    link_name: big_oh.pdf
    link: content/labs/big_oh/big_oh.pdf
-   solutions_link: protected_content/labs/big_oh_sols/big_oh_sols.pdf
+   solutions_link: protected_content/labs/big_oh/big_oh_sols.pdf
 
 -
    date: 2015-09-21
@@ -24,7 +24,7 @@
    name: Sorting
    link_name: sorting.pdf
    link: content/labs/sorting/sorting.pdf
-   solutions_link: protected_content/labs/sorting_sol/sorting_sol.pdf
+   solutions_link: protected_content/labs/sorting/sorting_sol.pdf
 
 -
    date: 2015-10-05
@@ -73,7 +73,7 @@
    name: Radix sort, tries
    link_name: radix_sort_tries.pdf
    link: content/labs/radix_sort_tries/radix_sort_tries.pdf
-   solutions_link: protected_content/labs/radix_sort_tries_soln.pdf
+   solutions_link: protected_content/labs/radix_sort_tries/radix_sort_tries_soln.pdf
 
 -
    date: 2015-11-30
